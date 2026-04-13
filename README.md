@@ -1,7 +1,7 @@
-https://github.com/user-attachments/assets/e73b3650-e8bc-4592-9aac-9413a642692f
-
-
 🏠 Akıllı Ev Mobil Kontrol Arayüzü (Smart Home UI Prototype)
+
+
+https://github.com/user-attachments/assets/e73b3650-e8bc-4592-9aac-9413a642692f
 
 Bu proje, modern akıllı ev sistemleri için geliştirilmiş, kullanıcı deneyimi (UX) odaklı, minimalist ve modüler bir mobil arayüz prototipidir. Flutter ve Dart kullanılarak geliştirilen bu uygulama, IoT cihazlarının yönetimini görsel bir simülasyon üzerinden sunar.
 
